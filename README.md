@@ -2,7 +2,7 @@ Zhenxu Ke is currently employed by [@Alibaba](https://github.com/alibaba), where
 
 During his spare time, he enjoys contributing to open-sourced projects, now he is a member of the [Apache SkyWalking](https://github.com/apache/skywalking) PMC (Project Management Committee), and is a committer of the [Apache Dubbo](https://github.com/apache/dubbo) project.
 
-He writes codes in many languages, include:
+He writes codes in many languages, including:
 
 - **Java & Kotlin**: daily work, also [cache-lite](http://github.com/kezhenxu94/cache-lite), [yaml-validator](https://github.com/yaml-validator/yaml-validator)
 
