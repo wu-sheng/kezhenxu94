@@ -1,4 +1,4 @@
-Zhenxu Ke is currently employed by [@Alibaba](https://github.com/alibaba), where he is part of the CI/CD team.
+Zhenxu Ke is currently employed by [@Alibaba](https://github.com/alibaba), where he is part of the DevOps team.
 
 During his spare time, he enjoys contributing to open-sourced projects, now he is a member of the [Apache SkyWalking](https://github.com/apache/skywalking) PMC (Project Management Committee), and is a committer of the [Apache Dubbo](https://github.com/apache/dubbo) project.
 
