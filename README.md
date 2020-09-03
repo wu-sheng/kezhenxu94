@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Kubernetes
 
-- 📫 How to reach me: kezhenxu94 in all kinds of social networks
+- 📫 How to reach me: search kezhenxu94 in all kinds of social networks
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=kezhenxu94&show_icons=true)
 
