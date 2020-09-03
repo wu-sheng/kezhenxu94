@@ -1,6 +1,6 @@
 ![Stats](https://github-readme-stats.vercel.app/api?username=kezhenxu94&show_icons=true)
 
-![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=kezhenxu94&layout=compact&card_width=400)
+![TopLang](https://github-readme-stats.vercel.app/api/top-langs/?username=kezhenxu94&layout=compact&card_width=440)
 
 - 🔭 Zhenxu Ke is currently employed by [@Alibaba](https://github.com/alibaba), where he is part of the DevOps team.
 
